@@ -1,0 +1,10 @@
+{
+    "title": "Welcome",
+    "description": {
+      "part1": "To get started"
+    },
+    "name":"Login",
+    "signInOption":"Sign in with",
+    "emailAddress":"Email address",
+    "password":"Password"
+  }

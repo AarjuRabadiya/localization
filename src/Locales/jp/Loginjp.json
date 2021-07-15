@@ -1,0 +1,10 @@
+{
+    "title": "ようこそ",
+    "description": {
+      "part1": "開始するには"
+    },
+    "name":"ログイン",
+    "signInOption":"でサインイン",
+    "emailAddress":"電子メールアドレス",
+    "password":"パスワード"
+  }

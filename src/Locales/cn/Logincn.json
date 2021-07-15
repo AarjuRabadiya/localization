@@ -1,0 +1,10 @@
+{
+    "title": "歡迎",
+    "description": {
+      "part1": "開始"
+    },
+    "name":"登錄",
+    "signInOption":"登陸使用",
+    "emailAddress":"電子郵件地址",
+    "password":"密碼"
+  }
